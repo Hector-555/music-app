@@ -127,10 +127,6 @@ input[type=range]::-moz-range-thumb {
 }
 
 @media (max-width: 600px) {
-  /* .credits {
-    letter-spacing: 1px;
-  } */
-
   .preview {
     width: 45px;
     height: 45px;
